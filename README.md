@@ -236,3 +236,6 @@ Screenshot:
 
 
 [2] https://github.com/microsoft/detours/wiki/DetourCreateProcessWithDllEx
+
+
+[3] https://maldevacademy.com/
