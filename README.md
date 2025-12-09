@@ -172,7 +172,6 @@ bool SpawnWithDll(const std::wstring& exe)
 >
 > - **Microsoft Defender ATP** (OS: Windows 11 – Bypassed)  
 > - **Palo Alto Cortex XDR** (OS: Windows 11 – Bypassed)  
-> - **SentinelOne** (OS: Windows 11 – Bypassed)  
 > - **Trend Micro Vision One** (OS: Windows 10 – Bypassed)  
 >
 > Overall, none of the solutions raised an alert or blocked the activity.  
@@ -180,29 +179,6 @@ bool SpawnWithDll(const std::wstring& exe)
 > The Defender event timeline showed no further anomalies, and the other EDRs behaved identically.  
 > There’s clearly more potential here for further experimentation.  
 
-
-## Defender ATP:
-
-
-
-https://github.com/user-attachments/assets/c1b552ab-52d6-4a90-af94-b5ca9ecbe105
-
-Screenshot:
-
-![Detours_Defender_DLL](https://github.com/user-attachments/assets/444cb30f-beeb-4e01-8642-41e870bc5795)
-
-
-
-## Cortex:
-
-
-
-https://github.com/user-attachments/assets/860ca270-86e5-411b-9cf0-9d3608077877
-
-Screenshot:
-
-
-![Cortex_Screen](https://github.com/user-attachments/assets/3fa627ef-c693-45b0-808a-a53dfdfadd77)
 
 
 
