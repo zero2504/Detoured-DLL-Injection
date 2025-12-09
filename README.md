@@ -205,16 +205,6 @@ Screenshot:
 ![Cortex_Screen](https://github.com/user-attachments/assets/3fa627ef-c693-45b0-808a-a53dfdfadd77)
 
 
-## SentinelOne:
-
-
-https://github.com/user-attachments/assets/62ec5a57-c866-4323-b961-0f3e550e5067
-
-Screenshot:
-
-
-![SentinelOne_Screen](https://github.com/user-attachments/assets/0834f5b3-ecae-413c-9aee-3007874d12ea)
-
 
 ## Trend Vision One:
 
